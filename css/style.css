@@ -1,0 +1,50 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: normal Arial, Helvetica, sans-serif;
+    padding: 10px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-left: 5px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+header img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid green;
+}
+
+.foto {
+    text-align: center;
+    
+}
+
+footer img {
+    width: 40px;
+    align-items: center;
+}
+
+footer a {
+    margin: 10px;
+    font-size: 15pt;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 0px;
+}
+
+* {
+    padding: 1.2px;
+}
